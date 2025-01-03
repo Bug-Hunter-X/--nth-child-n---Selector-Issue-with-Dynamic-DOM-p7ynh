@@ -1,0 +1,1 @@
+The CSS rule `:nth-child(n)` selector is not working as expected when targeting elements within a dynamically generated or manipulated DOM.  Specifically, it's failing to select the intended elements after the DOM is updated.
